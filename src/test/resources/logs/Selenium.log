@@ -1,0 +1,23 @@
+17:04:52,987 DEBUG devpinoyLogger:65 - Config file loaded
+17:04:52,991 DEBUG devpinoyLogger:78 - OR file loaded
+17:05:18,981 DEBUG devpinoyLogger:122 - chrome Launched !!!
+17:05:33,504 DEBUG devpinoyLogger:125 - Navigated to: https://zoho.com
+17:05:42,647 DEBUG devpinoyLogger:147 - Clicking on Element : loginlink_XPATH
+17:05:43,152 DEBUG devpinoyLogger:159 - Typing an Element : email_CSSentered value as: jindalnaveen9@gmail.com
+17:05:43,270 DEBUG devpinoyLogger:147 - Clicking on Element : loginnextbtn_CSS
+17:05:43,435 DEBUG devpinoyLogger:159 - Typing an Element : password_CSSentered value as: naveen16537
+17:05:43,729 DEBUG devpinoyLogger:147 - Clicking on Element : signin_CSS
+17:05:44,541 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:05:44,544 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:05:44,549 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:05:44,552 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:05:44,553 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Naveen/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:06:38,288 DEBUG devpinoyLogger:147 - Clicking on Element : crmclick_XPATH
+17:06:39,337 DEBUG devpinoyLogger:147 - Clicking on Element : accountstab_XPATH
+17:06:40,419 DEBUG devpinoyLogger:147 - Clicking on Element : createaccountbtn_XPATH
+17:06:41,708 DEBUG devpinoyLogger:159 - Typing an Element : accountname_IDentered value as: Raman
+17:06:42,762 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:06:42,764 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:06:42,765 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:06:42,765 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:06:42,766 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Naveen/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
